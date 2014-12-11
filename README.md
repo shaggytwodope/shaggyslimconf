@@ -1,3 +1,6 @@
+This will become a fork, not all code will remain. Not even sure what to do to get working at this stage.
+
+
 SLiMconf
 ========
 
