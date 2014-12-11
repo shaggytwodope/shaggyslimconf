@@ -73,7 +73,7 @@ class Handler:
             builder.get_object('auto_login').set_sensitive(True)
 
 builder = Gtk.Builder()
-builder.add_from_file("/usr/share/slimconf/glade/slimconf-ui.glade")
+builder.add_from_file("/usr/share/slimconf/glade/shaggyslimconf-ui.glade")
 
 
 if os.getuid() == 0:
